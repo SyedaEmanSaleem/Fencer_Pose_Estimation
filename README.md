@@ -1,4 +1,4 @@
-# 🥷 Fencer Pose
+# 🥷 Fencer Pose Estimation
 
 **Custom YOLOv8 Pose Estimation for Fencing**
 
